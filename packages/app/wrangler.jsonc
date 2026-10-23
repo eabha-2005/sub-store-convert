@@ -1,5 +1,5 @@
 {
-    "name": "sub-workers",
+    "name": "sub-store-convert",
     "main": "src/index.js",
     "compatibility_date": "2025-09-15",
     "compatibility_flags": [
